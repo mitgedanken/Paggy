@@ -1,2 +1,2 @@
 # Paggy
-A server undepended composer like package manager.
+A server independed composer like package manager.
